@@ -23,6 +23,11 @@
 // Filters
 #import "GPUImageFilter.h"
 #import "GPUImageTwoInputFilter.h"
+#import "GPUImageThreeInputFilter.h"
+#import "GPUImageFourInputFilter.h"
+#import "GPUImageFiveInputFilter.h"
+#import "GPUImageInputFilterGroup.h"
+
 #import "GPUImagePixellateFilter.h"
 #import "GPUImagePixellatePositionFilter.h"
 #import "GPUImageSepiaFilter.h"
@@ -161,8 +166,6 @@
 #import "GPUImageDirectionalNonMaximumSuppressionFilter.h"
 #import "GPUImageDirectionalSobelEdgeDetectionFilter.h"
 #import "GPUImageSingleComponentGaussianBlurFilter.h"
-#import "GPUImageThreeInputFilter.h"
-#import "GPUImageFourInputFilter.h"
 #import "GPUImageWeakPixelInclusionFilter.h"
 #import "GPUImageColorConversion.h"
 #import "GPUImageColourFASTFeatureDetector.h"
