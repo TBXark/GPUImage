@@ -6,7 +6,10 @@
 //  Copyright © 2016 Brad Larson. All rights reserved.
 //
 
-#import <GPUImage/GPUImage.h>
+#import "GPUImageFilterGroup.h"
+#import "GPUImagePicture.h"
+
+
 
 @interface GPUImageInputFilterGroup  : GPUImageFilterGroup
 {

@@ -7,6 +7,9 @@
 //
 
 #import "GPUImageInputFilterGroup.h"
+#import "GPUImageFiveInputFilter.h"
+
+
 
 @implementation GPUImageInputFilterGroup
 

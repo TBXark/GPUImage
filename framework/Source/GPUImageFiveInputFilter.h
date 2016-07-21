@@ -6,7 +6,7 @@
 //  Copyright © 2016 Brad Larson. All rights reserved.
 //
 
-#import <GPUImage/GPUImage.h>
+#import "GPUImageFourInputFilter.h"
 
 @interface GPUImageFiveInputFilter : GPUImageFourInputFilter
 {
