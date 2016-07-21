@@ -31,6 +31,10 @@ FOUNDATION_EXPORT const unsigned char GPUImageFrameworkVersionString[];
 // Filters
 #import <GPUImage/GPUImageFilter.h>
 #import <GPUImage/GPUImageTwoInputFilter.h>
+#import <GPUImage/GPUImageFiveInputFilter.h>
+#import <GPUImage/GPUImageInputFilterGroup.h>
+
+
 #import <GPUImage/GPUImagePixellateFilter.h>
 #import <GPUImage/GPUImagePixellatePositionFilter.h>
 #import <GPUImage/GPUImageSepiaFilter.h>
